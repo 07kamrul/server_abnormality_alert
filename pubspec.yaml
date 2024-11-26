@@ -29,4 +29,4 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/Warning-Siren01-1.mp3
+    - assets/audio/Warning-Siren01-1.mp3

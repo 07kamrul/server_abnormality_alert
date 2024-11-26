@@ -62,7 +62,7 @@ class _MonitoringScreenState extends State<MonitoringScreen> {
   }
 
   void _playAlert() async {
-    await _audioPlayer.play(AssetSource('assets/Warning-Siren01-1.mp3'));
+    await _audioPlayer.play(AssetSource('audio/Warning-Siren01-1.mp3'));
   }
 
   void _showAlertDialog() {
