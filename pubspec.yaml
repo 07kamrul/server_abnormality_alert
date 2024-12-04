@@ -1,5 +1,5 @@
 name: server_abnormality_alert
-description: "A new Flutter project."
+description: "Server abnormality alert smartphone app Develop."
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
@@ -17,6 +17,9 @@ dependencies:
   http: ^1.2.2
   audioplayers: ^6.1.0
   workmanager: ^0.5.2
+  vibration: ^2.0.1
+  android_alarm_manager_plus: ^4.0.4
+  flutter_system_action: ^1.0.4
 
 dev_dependencies:
   flutter_test:
